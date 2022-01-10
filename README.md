@@ -2,6 +2,8 @@
 
 Bonjour et bienvenue sur mon site ! 😊
 
+Lien du site : https://julietteinfanti.me/
+
 ! Encore en construction !
 
 Ce site a été créé entièrement par mes soins, en HTML et CSS pour l'instant. Le JS est à venir.
