@@ -3,10 +3,12 @@ Début 2022
 
 Individuel
 
-📎 Vidéo de démonstration :
-Un aperçu en vidéo, c'est toujours mieux !
 
-[lien à venir]
+📎 Lien du site internet :
+
+
+https://julietteinfanti.me/
+
 
 📌 Consignes du projet :
 
