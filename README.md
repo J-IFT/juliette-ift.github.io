@@ -1,6 +1,3 @@
-PP-2022-Mon-Site-Internet
-PP = Projet Personnel
-
 📚 Projet Personnel | Réalisation de mon site internet
 Début 2022
 
