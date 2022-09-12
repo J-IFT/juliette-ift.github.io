@@ -1,16 +1,26 @@
-<!-- COPYRIGHT : Juliette INFANTI --> 
+PP-2022-Mon-Site-Internet
+PP = Projet Personnel
 
-Bonjour et bienvenue sur mon site ! 😊
+📚 Projet Personnel | Réalisation de mon site internet
+Début 2022
 
-Lien du site : https://julietteinfanti.me/
+Individuel
 
-! Encore en construction !
+📎 Vidéo de démonstration :
+Un aperçu en vidéo, c'est toujours mieux !
 
-Ce site a été créé entièrement par mes soins, en HTML et CSS pour l'instant. Le JS est à venir.
-J'apporte des modifications régulièrement (sur mon temps libre).
+[lien à venir]
+
+📌 Consignes du projet :
+
+[en construction]
 
 
-Ceci est un projet personnel, aucun plagiat n'est accepté.
+💻 Applications et langages utilisés :
+HTML
+CSS
+...
 
 
-<!-- COPYRIGHT : Juliette INFANTI --> 
+🌸 Merci !
+© J-IFT
