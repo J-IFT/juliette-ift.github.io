@@ -7,7 +7,7 @@ Individuel
 📎 Lien du site internet :
 
 
-https://julietteinfanti.tech/
+https://julietteinfanti.live/
 
 
 📌 Consignes du projet :
