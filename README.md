@@ -13,7 +13,10 @@ Individuel
 
 📌 But du projet :
 
+
 Simplement de créer mon site internet type portfolio / CV.
+
+
 
 💻 Applications et langages utilisés :
 HTML
