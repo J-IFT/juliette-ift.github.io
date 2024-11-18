@@ -1,5 +1,5 @@
 📚 Projet Personnel | Réalisation de mon site internet
-Début 2022
+Début 2022 - Fin 2025
 
 Individuel
 
@@ -7,13 +7,12 @@ Individuel
 📎 Lien du site internet :
 
 
-https://julietteinfanti.tech/
+[https://julietteinfanti.tech/](https://j-ift.github.io/juliette-ift.github.io/)
 
 
-📌 Consignes du projet :
+📌 But du projet :
 
-[en construction]
-
+Simplement de créer mon site internet type portfolio / CV.
 
 💻 Applications et langages utilisés :
 HTML
